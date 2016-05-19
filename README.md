@@ -1,3 +1,3 @@
 # mayWorkshop
 github joy
-learned outbout github stuff
+learned outbout github stuff and things
